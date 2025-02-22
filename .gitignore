@@ -58,6 +58,8 @@ typings/
 .env
 .env.*.local
 
-.DS_Store
 # next.js build output
 .next
+
+# misc
+.DS_Store
