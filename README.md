@@ -221,3 +221,6 @@ Powered by [Upstash Workflows](https://upstash.com/), the system automatically:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## ⛺️ Based on 
+🎥 [Complete Backend Course | Build and Deploy Your First Production-Ready API](https://www.youtube.com/watch?v=rOpEN1JDaD0)
